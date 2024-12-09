@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[lfs]
+	repositoryformatversion = 0
+[remote "origin"]
+	url = https://github.com/devMukeshK/Zeller_Assignment.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
